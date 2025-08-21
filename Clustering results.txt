@@ -1,0 +1,319 @@
+Cluster 0:
+ - Spaghetti Bolognese
+ - Lasagna
+ - Ratatouille
+ - Burrito
+ - Shepherd's Pie
+ - Shakshuka
+ - Dim Sum
+ - Matar Paneer
+ - Paneer Tikka Masala
+ - Naan
+ - Stuffed Bell Peppers
+ - Crab Curry
+ - Kitchree
+ - Manicotti
+ - Chicken Soup
+ - Paneer Tikka Masala
+ - Naan
+
+Cluster 1:
+ - Pepper Chicken
+ - Fried Rice
+ - Shawarma
+ - Chicken Tandoori
+ - Gajar Ka Halwa
+ - Sambhar
+ - Labra
+ - Rasmalai
+ - Falooda
+ - Gulab Jamun
+ - Keema
+ - Stuffed Bell Peppers
+ - Naan
+ - Tandoori Chicken
+ - Korma
+ - Rogan Josh
+ - Kadai Paneer
+ - Chicken Tikka Masala
+ - Palak Paneer
+ - Mushroom Curry
+ - Thandai
+ - Bhatoora
+ - Kashmiri Rogan Josh
+ - Kheema
+ - Falooda
+ - Ras Malai 
+ - Panipuri
+ - Chapatis
+ - Masala Chai 
+ - Rasam
+ - Chicken Tikka Masala
+ - Murukku
+ - Garam Masala
+ - Creams
+ - Mango Lassi
+ - Naan
+ - Kulfi 
+ - Khagina
+ - Kahwah 
+ - Scrambled Eggs 
+ - Chapati
+ - Fruitcake
+ - Pindi Chana
+ - Saag Paneer
+ - Chili Pepper Water
+ - Aluwa
+ - Poppadoms
+ - Garam Masala
+ - Kedgeree
+ - Sambar
+ - Chappati
+ - Paneer Butter Masala
+ - Gujarati Kadhi
+ - Tomato
+ - Kheer
+ - Mango Chutney
+ - Paratha
+ - Chicken Madras
+ - Indian Corn
+ - Dum Aloo
+ - Paneer
+ - Chicken Tikka
+ - Indian Summer
+ - Firni
+ - Panch Phoron
+ - Saheena
+ - Egg Curry
+ - Palak Paneer
+ - Tandoori Masala
+ - Bhel Puri
+ - Tomato
+ - Burfi
+ - Atlantic Salmon 
+ - Bhendi
+ - Chicken Tandoori
+ - Shakshuka
+ - Rajma
+ - Chicken Tikka Masala
+ - Sheer Khorma
+ - Butter Chicken
+ - Coconut Chutney
+ - Chicken 65
+ - Tomato Chutney
+ - Sev
+ - Hummus
+ - Panir
+ - Ras Gulla
+ - Upma
+ - Chicken Biryani
+ - Neyyappam
+ - Milk Rice
+ - Gujiya
+ - Bhatura
+ - Gajar Ka Halwa
+ - Lemonade
+ - Thandai
+ - Mattar Paneer
+ - Strawberry
+ - Kheer
+ - Pongal
+ - Samosas
+ - Rajma 
+ - Mutton Korma
+ - Baingan Bharta
+ - Malai Kofta
+ - Vindaloo
+ - Dum Aloo
+ - Dahi Vada
+ - Chapati
+ - Pesarattu
+ - Tandoori Chicken
+ - Tandoori Chicken
+ - Dalcha
+ - Kheer
+ - Aloo Dum
+ - Mango Chutney
+ - Mulligatawny Soup
+ - Mint chutney
+ - Roti
+ - Rogan Josh
+ - Falooda
+ - Poha
+ - Palak Paneer
+ - Kulfi
+ - Rasgula
+ - Kashmiri Rogan Josh
+ - Mushroom Curry
+ - Almond Milk
+ - Rogan Josh
+ - Masala Chai
+ - Boiled Rice
+ - Kheer
+ - Basmati Rice
+ - Tahiri
+ - Chicken
+ - Panch Phoron
+ - Fish Curry
+ - Gajar Ka Halwa
+ - Lobia
+ - Doner Kebab
+ - Murgh Makhani
+ - Murgh Musallam
+ - Sheer Khurma
+ - Chicken Tikka
+ - Chicken Masala
+ - Kulfi
+ - Chapati
+ - Seviyan
+ - Chicken Korma
+ - Fish Curry
+
+Cluster 2:
+ - Prawn Malai Curry
+ - Sushi
+ - Beef Stroganoff
+ - Peking Duck
+ - Ceviche
+ - Sauerbraten
+ - Prawn Malai Curry
+ - Shami Kebab
+ - Prawn Malai Curry
+ - Garam Masala
+ - Country Captain
+ - Murag
+ - Chicken Rezala
+ - Shrimp
+ - Chicken Korma
+ - Gosht
+ - Mutton Korma
+ - Gushtaba
+
+Cluster 3:
+ - Chicken Curry
+ - Paella
+ - Moussaka
+ - Bibimbap
+ - Chicken Curry
+ - Chicken Curry
+ - Kedgeree
+ - Egg Curry
+ - Aloo Gobi
+ - Gujarati Kadhi
+ - Gobi Aloo
+ - Mulligatawny Soup
+ - Mulligatawny Soup
+ - Samosas
+ - Lemon Rice
+ - Dal
+ - Aloo Gobi
+ - Mulligatawny Soup
+ - Chicken Curry
+
+Cluster 4:
+ - Butter Chicken
+ - Ramen
+ - Miso Soup
+ - French Onion Soup
+ - Fondue
+ - Tom Yum Soup
+ - Butter Chicken
+ - Butter Chicken
+ - Sambar
+ - Paneer Butter Masala
+ - Butter Chicken
+
+Cluster 5:
+ - Gulab Jamun or Kala Jam (Waffle Balls)
+ - Pad Thai
+ - Tiramisu
+ - Panna Cotta
+ - Creme Brulee
+ - Mochi
+ - Baklava
+ - Pavlova
+ - Kulfi
+ - Ras Malai
+ - Mango Lassi
+ - Raita
+ - Mango Lassi
+ - Coconut Chutney
+ - Coconut Sambol
+ - Chocolate Cake
+ - Raita
+ - Ice Cream Cake
+ - Shrikhand
+ - Bread Pudding
+ - Kheer
+
+Cluster 6:
+ - Biryani
+ - Croissant
+ - Pho
+ - Chicken Korma
+ - Chicken Biryani
+ - Chicken Korma
+ - Biriyani
+ - Chicken Korma
+ - Chicken Biryani
+ - Biriyani
+ - Mutton Biryani
+ - Biryani
+
+Cluster 7:
+ - Tacos
+ - Falafel
+ - Tempura
+ - Clam Chowder
+ - Hummus
+ - Samosas
+ - Bhel Puri
+ - Sundal
+ - Cauliflower
+ - Paneer
+ - Pesarattu
+ - Sannas
+ - Cauliflower
+ - Daal Baati
+ - Cauliflower
+ - Saag Paneer
+ - Khichda
+ - Black-Eyed Peas
+ - Brown Rice
+ - Chaat
+ - Lamb Saag
+
+Cluster 8:
+ - Curry
+ - Goulash
+ - Chili con Carne
+ - Jambalaya
+ - Phaal
+ - Pav Bhaji
+ - Aviyal
+ - Tomato Chutney
+ - Gobi Manchurian
+ - Lamb Curry
+ - Chicken Jalfrezi
+ - Masala
+ - Dalcha
+ - Chicken Masala
+ - Chole
+ - Stew
+ - Vindaloo
+ - Vegetable Stew
+ - Lamb Curry
+ - Chicken Tikka Masala
+ - Chicken Tikka Masala
+
+Cluster 9:
+ - Chicken Tikka Masala
+ - Kebab
+ - Tandoori Chicken
+ - Tandoori Chicken
+ - Milagai Podi
+ - Baingan Bharta
+ - Tandoori Chicken
+ - Chicken Balls
+ - Spicy Chicken
+
